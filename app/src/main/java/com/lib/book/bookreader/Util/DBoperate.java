@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 
 public class DBoperate {
-    private static final String driver_url = "jdbc:mysql://119.28.43.109:3306/libraryDB?useUnicode=true&characterEncoding=UTF-8&useSSL=false&autoReconnect=true&failOverReadOnly=false";
+    private static final String driver_url = "jdbc:mysql://localhost:3306/libraryDB?useUnicode=true&characterEncoding=UTF-8&useSSL=false&autoReconnect=true&failOverReadOnly=false";
     private static final String database_user = "user_lib";
     private static final String database_password = "lib_user";
     private static Connection connection;
