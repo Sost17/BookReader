@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">图书阅读</string>
+    <string name="title_bookshop">在线书库</string>
+    <string name="title_mybook">我的书架</string>
+    <string name="popular_book">火热图书</string>
+    <string name="add_tag">添加</string>
+
+    #user
+    <string name="log_name">登录</string>
+    <string name="reg_name">注册</string>
+    <string name="user_name">用户名</string>
+    <string name="passwd_name">密码</string>
+    <string name="success_name">注册</string>
+</resources>
